@@ -41,7 +41,7 @@
 &none  AS(Z)        AS(X)      AS(C)       AS(D)      AS(V)         AS(K)     AS(H)      AS(COMMA)   AS(DOT)    AS(FSLH)   &none 
                     /* &mt LSHFT ESC  &kp LCMD   &mt LCTRL TAB     &lt NUM SPACE    &mt LALT BSPC  &lt NAV RET    */
                     /* &mt LSHFT ESC  &kp LCMD   &mt LCTRL TAB     &lt NUM SPACE    &mt LALT BSPC  &lt NAV RET    */
-                    &mt LSHFT RET  &kp LCMD   &mt NUM SPACE     &lt LCTRL TAB    &mt LALT BSPC  &lt NAV ESC   
+                    &mt LSHFT RET  &kp LCMD   &lt NUM SPACE     &mt LCTRL TAB    &mt LALT BSPC  &lt NAV ESC   
                         >;
                 };
 
